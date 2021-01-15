@@ -9,3 +9,17 @@ Traditionally, access to bank accounts has been regarded as an indicator of fina
 
 Python was used for the analysis, particularly, the use Pandas, seaborn, matplotlib and Numpy libraries. 
 GitHub was used to create a repository.
+Release History
+1. This is the first release.
+
+Meta
+Team Time Data Report
+Distributed under the GNU General Public License v3.0. See LICENSE for more information.
+https://github.com/Edwin-Kutsushi/Moringa-DSC-week-2-IP
+
+Contributing
+1. Fork it https://github.com/Edwin-Kutsushi/Moringa-DSC-week-2-IP-.git
+2. Create your feature branch (git checkout -b feature/fooBar)
+3. Commit your changes (git commit -am 'Add some fooBar')
+4. Push to the branch (git push origin feature/fooBar)
+5. Create a new Pull Request
